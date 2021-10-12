@@ -1,5 +1,6 @@
 package com.example.headsupprep120
 
+import com.example.headsupprep120.model.Celebrity
 import retrofit2.Call
 import retrofit2.http.*
 
